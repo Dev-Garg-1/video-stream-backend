@@ -1,0 +1,23 @@
+{
+  "name": "video-stream-backend",
+  "version": "1.0.0",
+  "description": "this is a project similar to youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dev-Garg-1/video-stream-backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Dev Garg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dev-Garg-1/video-stream-backend/issues"
+  },
+  "homepage": "https://github.com/Dev-Garg-1/video-stream-backend#readme"
+}
